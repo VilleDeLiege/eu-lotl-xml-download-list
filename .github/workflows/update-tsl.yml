@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add tsl_locations.txt
+          git add tsl_locations.txt tsl_domains.txt
           if ! git diff --cached --quiet; then
             git commit -m "Update TSL locations [skip ci]"
             git push
