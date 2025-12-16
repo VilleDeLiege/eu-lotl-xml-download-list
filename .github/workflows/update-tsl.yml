@@ -26,6 +26,7 @@ jobs:
             -v "//tsl:OtherTSLPointer[tsl:AdditionalInformation/tsl:OtherInformation/types:MimeType='application/vnd.etsi.tsl+xml']/tsl:TSLLocation" \
             -n \
           > tsl_locations.txt
+          sed -E 's|https?://([^/]+).*|\1|g' tsl_locations.txt | sort -u > tsl_domains.txt
 
       - name: Commit and push results
         run: |
