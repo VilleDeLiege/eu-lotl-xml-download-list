@@ -1,5 +1,4 @@
 crc.bg
-cyber.gouv.fr
 dec.dmrid.gov.cy
 dp.trustedlist.fi
 ec.europa.eu
@@ -7,6 +6,7 @@ eidas.agid.gov.it
 eidas.gov.ie
 elektroninisparasas.lt
 gov.hr
+messervices.cyber.gouv.fr
 nkom.no
 sedediatid.mineco.gob.es
 sr.riik.ee

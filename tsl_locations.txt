@@ -10,7 +10,7 @@ https://sr.riik.ee/tsl/estonian-tsl.xml
 https://www.eett.gr/tsl/EL-TSL.xml
 https://sedediatid.mineco.gob.es/Prestadores/TSL/TSL.xml
 https://dp.trustedlist.fi/fi-tl.xml
-https://cyber.gouv.fr/sites/default/files/document/tl-fr.xml
+https://messervices.cyber.gouv.fr/visas/tl-fr.xml
 https://gov.hr/UserDocsImages/Usluge%20povjerenja/Pouzdani_popis_RH.xml
 http://www.nmhh.hu/tl/pub/HU_TL.xml
 https://eidas.gov.ie/Irelandtslsigned.xml
