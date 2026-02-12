@@ -21,7 +21,7 @@ https://elektroninisparasas.lt/LT-TSL.xml
 https://trusted-list.lu/tsl.xml
 https://trustlist.gov.lv/tsl/latvian-tsl.xml
 https://tsl.mca.org.mt/MT_TSL.xml
-https://www.rdi.nl/site/binaries/site-content/collections/documents/current-tsl.xml
+https://www.rdi.nl/site/binaries/content/assets/site-content/bestanden/current-tsl.xml
 https://nkom.no/files/TSL/NO_TSL.xml
 https://www.nccert.pl/tsl/PL_TSL.xml
 https://www.gns.gov.pt/media/1894/TSLPT.xml
